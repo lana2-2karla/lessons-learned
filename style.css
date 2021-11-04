@@ -7,6 +7,10 @@ background-color: rgb(253, 251, 251);
     padding: 40px;
     border: 40px solid seagreen;
     margin: 100px;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(153, 15, 15);
+    line-height: opx;
 }
 #licoes_aprendidas {
     position: absolute;
@@ -14,15 +18,27 @@ background-color: rgb(253, 251, 251);
     padding: 40px;
     border: 40px solid seagreen;
     margin: 100px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(91, 15, 153);
+    line-height: 1px;
 }
 #licoes_a_aprender {
     padding: 40px;
     border: 40px solid seagreen;
     margin: 100px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(66, 153, 15);
+    line-height: 2px;
 }
 #titulo {
     padding: 40px;
     border: 40px solid seagreen;
     margin: 100px;
+    font-size: 30px;
+    font-family: cursive;
+    color: rgb(15, 153, 118);
+    line-height: 3px;
 } 
 }
