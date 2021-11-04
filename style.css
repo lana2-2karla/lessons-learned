@@ -4,8 +4,25 @@ background-color: rgb(253, 251, 251);
 #cabecalho {
     position: fixed;
     top: 0px;
+    padding: 40px;
+    border: 40px solid seagreen;
+    margin: 100px;
 }
 #licoes_aprendidas {
     position: absolute;
     top: 450px;
+    padding: 40px;
+    border: 40px solid seagreen;
+    margin: 100px;
+}
+#licoes_a_aprender {
+    padding: 40px;
+    border: 40px solid seagreen;
+    margin: 100px;
+}
+#titulo {
+    padding: 40px;
+    border: 40px solid seagreen;
+    margin: 100px;
+} 
 }
