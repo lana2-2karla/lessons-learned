@@ -2,30 +2,39 @@ body {
 background-color: rgb(253, 251, 251);
 }
 #cabecalho {
-    
+    border: solid rgb(212, 38, 38) 8px;
     color:blue;
+    position:fixed;
+    top: 0px;
+}
+#minha_foto {
+
+
 }
 #foto-e-link {
+    border: solid rgb(252, 170, 63) 8px;;
 
 }
 #section-table {
-
+    border: solid rgb(240, 243, 55) 8px;
 }
 #licoes_aprendidas {
-    
+    border: solid rgb(189, 75, 75) 8px;
 }
 #licoes_a_aprender {
-    
+    border: solid rgb(39, 121, 50) 8px;
 }
 #artigo {
-    
+    border: solid rgb(50, 101, 177) 8px;
 }
 #aprendizados {
-    
+    border: solid rgb(189, 75, 75) 8px;
 }
 #extra {
-    
+    border: solid rgb(89, 61, 212) 8px;
 }
 #rodape {
-
+border:solid black 8px;
+padding-top: 10px;
+color
 }
