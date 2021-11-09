@@ -1,39 +1,45 @@
 body {
   background-color: rgb(253, 251, 251);
 }
+
 #cabecalho {
   border: solid rgb(212, 38, 38) 8px;
   color: blue;
   position: fixed;
   top: 0px;
   font-size: 15px;
-  font-family:'Courier New', Courier, monospace;
+  font-family: Courier New, Courier, monospace;
   line-height: 1px;
 }
+
 #foto-e-link {
   border: solid rgb(252, 170, 63) 8px;
   font-size: 14pt;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: Franklin Gothic Medium, Arial Narrow, Arial, sans-serif;
   color: brown;
 }
+
 #section-table {
   border: solid rgb(240, 243, 55) 8px;
   font-size: 16px;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: Times New Roman, Times, serif;
   color: crimson;
 }
+
 #div-licoes_aprendidas {
   border: solid rgb(189, 75, 75) 8px;
   font-size: 14px;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, Times New Roman, Times, serif;
   color: darkgreen;
 }
+
 #div-licoes_a_aprender {
   border: solid rgb(39, 121, 50) 8px;
   font-size: 16px;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
   color: darkolivegreen;
 }
+
 .lado-direito {
   border: solid rgb(50, 101, 177) 8px;
   display: block;
@@ -44,21 +50,24 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   color: darkorchid;
 }
+
 #aprendizados {
   border: solid rgb(189, 75, 75) 8px;
   font-size: 15px;
 
 }
+
 .lado-esquerdo {
   border: solid rgb(89, 61, 212) 8px;
   display: block;
   width: 200px;
   height: 200px;
   padding-right: 30%;
-  font-size: 16,9px;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 16px;
+  font-family: Impact, Haettenschweiler, Arial Narrow Bold, sans-serif;
   color: darkslategrey;
 }
+
 #rodape {
   border: solid black 9px;
   padding-top: 10px;
@@ -66,4 +75,4 @@ body {
   font-size: 20px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin: 20px; 
-};
+ }
